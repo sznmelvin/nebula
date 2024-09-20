@@ -36,7 +36,7 @@ A **shell** is a special program that allows the user to interact with the opera
 
 ## x86 Registers
 
-<img src="x-86-registers.png" width="600" height="650" /><br>
+<img src="x86-registers.png" width="600" height="650" /><br>
 
 - Using registers instead of memory is faster.
 - Variables built in processors.
