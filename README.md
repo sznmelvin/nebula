@@ -4,7 +4,22 @@ An operating system made for research purposes written in assembly and c.
 
 ## Prerequisites
 
-I recommend understanding assembly and c syntax and how a program runs(fetch from memory, decode and execute). It would really help you understand the codebase better. I also recommend reading _Operating Systems 3 Easy Steps by Remzi H.Arpaci-Dusseau and Andrea C.Arpaci-Dusseau_. It's the book I use while making this.
+I recommend understanding assembly and c syntax and how a program runs(fetch from memory, decode and execute). It would really help you understand the codebase better. I also recommend reading _Operating Systems 3 Easy Steps by Remzi H.Arpaci-Dusseau and Andrea C.Arpaci-Dusseau_. It's the book I use while making this.<br>
+
+Also used this website. It was really helpful. https://wiki.osdev.org/
+
+## To run the OS
+
+### You need the following:
+
+- An emulator for running the OS on your computer(I used VirtualBox)
+- An assembler (I used NASM)
+
+## Notes to self(Basic Intro)
+
+An operating system is a software controlling the operation of a computer system and its resources.<br>
+A kernel manages the resources of the computer system and provides a platform for running applications.<br>
+A shell is a special program that allows the user to interact with the operating system.The way it works may vary in different OSes(i.e. File explorer, command line interface, etc.).<br>
 
 ## How a computer starts up
 
